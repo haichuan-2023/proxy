@@ -172,6 +172,6 @@ http://*.epochtimes.com/*
 *://*.wikipedia.*/*
 *://*.wikimedia.*/*
 *.google.*
-*.chrome.*/*
+*.chrome.*
 [regexp]
 #END
