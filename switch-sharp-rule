@@ -173,6 +173,6 @@ http://*.epochtimes.com/*
 *://*.wikimedia.*/*
 *.google.*
 *.chrome.*
-*.twimg.com/*
+*.twimg.com*
 [regexp]
 #END
